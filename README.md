@@ -27,9 +27,10 @@ This project displays a grid of framed images showcasing Ronaldo with various tr
 
 ---
 ## 🖊️ Author
-Created by **Saiyon** 
+Created by **Dayalaxmi** 
 
 ✨ Front-End Developer passionate about UI/UX and modern web design.
 
 ## 📜 License
 This project is open source and available under the **MIT License**.  
+
